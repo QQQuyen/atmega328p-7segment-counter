@@ -4,7 +4,7 @@ Altium design, firmware, hex, Protues, PCB Handmade
 ## Schematic
 <img width="500"  alt="image" src="https://github.com/user-attachments/assets/69441f37-9394-4810-aaf4-7c912b42ac89" />
 
-## Protues
+## Proteus
 <img width="500"  alt="image" src="https://github.com/user-attachments/assets/554d43a4-8c3f-4f3c-9d49-d04dd26b66ad" />
 
 ## Altium design
