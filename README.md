@@ -17,4 +17,11 @@ Altium design, firmware, hex, Protues, PCB Handmade
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/cee628f1-47be-4039-bedf-1bc065f70b08" />
 
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/568975dd-81d7-44d0-afa6-70469ce0a459" />
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/8435a889-80a8-4b5b-aff2-99b23328329e" />
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/7b799df8-37af-48fe-adb6-073443a85100" />
+
+
 
