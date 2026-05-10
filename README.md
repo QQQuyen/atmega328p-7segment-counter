@@ -1,4 +1,5 @@
-# atmega328p-7segment-counter
+Video demo: https://www.youtube.com/watch?v=5HjtCX1udb4
+# Atmega328p-7segment-counter
 Altium design, firmware, hex, Protues, PCB Handmade
 
 ## Schematic
